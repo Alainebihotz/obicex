@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/plano 3d.unity
-=======
-- path: Assets/Scenes/David_Scene.unity
->>>>>>> fecce27d4efc6c4737d16aad6f338e8a9f6b5c06
   isLoaded: 1
   isActive: 1
   isSubScene: 0
